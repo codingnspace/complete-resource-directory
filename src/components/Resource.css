@@ -1,0 +1,21 @@
+.btn-group {
+  float: left;
+}
+
+.FavCount {
+  font-weight: bold;
+}
+
+.Resource {
+  border-top: 1px solid black;
+  position: relative;
+}
+
+h3 {
+  display: inline-block;
+}
+
+h3 a {
+  color: blue;
+  text-decoration: none;
+}
