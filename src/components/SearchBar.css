@@ -1,0 +1,15 @@
+.SearchBar {
+  border: 2px solid #A87878;
+  color: #A87878;
+  margin: auto;
+  padding: 2em;
+  width: 70%;
+  text-align: center;
+}
+
+.SearchBar input[type='text'] {
+  border: none;
+  border-bottom: 1px solid #789078;
+  margin-right: 1em;
+  width: 50%;
+}

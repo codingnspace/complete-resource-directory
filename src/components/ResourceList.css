@@ -1,3 +1,9 @@
 .Resource-Group h2 {
+  color: #789078;
   text-align: center;
+}
+
+.Resource-Group {
+  width: 70%;
+  margin: 3em auto;
 }

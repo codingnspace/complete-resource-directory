@@ -7,8 +7,14 @@
 }
 
 .Resource {
-  border-top: 1px solid black;
+  border-top: 1px solid #AAC0AB;
+  padding-left: 1em;
+  padding-right: 1em;
   position: relative;
+}
+
+.Resource.isHighlighted {
+  background-color: #B9CA8F;
 }
 
 h3 {
@@ -16,6 +22,6 @@ h3 {
 }
 
 h3 a {
-  color: blue;
+  color: #A87878;
   text-decoration: none;
 }

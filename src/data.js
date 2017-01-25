@@ -9,11 +9,12 @@ const data = [
     "id": 1,
     "title": "An Introduction to Javascript ES6 Modules",
     "url": "https://strongloop.com/strongblog/an-introduction-to-javascript-es6-modules/",
-    "topic": "ES6"
+    "topic": "ES6",
+    "isHighlighted": true
   },
   {
     "id": 2,
-    "title": "When 'not' to Use Arror Functions",
+    "title": "When 'not' to Use Arrow Functions",
     "url": "https://getpocket.com/a/read/1311724230",
     "topic": "ES6"
   },
@@ -33,7 +34,8 @@ const data = [
     "id": 5,
     "title": "Javascript Variables lifecyle: why 'var' is not hoisted",
     "url": "https://rainsoft.io/variables-lifecycle-and-why-let-is-not-hoisted/",
-    "topic": "ES6"
+    "topic": "ES6",
+    "isHighlighted": true
   },
   {
     "id": 6,
@@ -45,7 +47,8 @@ const data = [
     "id": 7,
     "title": "Javascript Closures Explained by Mailing a Package",
     "url": "https://medium.freecodecamp.com/javascript-closures-explained-by-mailing-a-package-4f23e9885039#.gc3o9le5r",
-    "topic": "JS Fundamentals"
+    "topic": "JS Fundamentals",
+    "isHighlighted": true
   },
   {
     "id": 8,
@@ -63,7 +66,8 @@ const data = [
     "id": 10,
     "title": "5 Essential React.js Interview Questions",
     "url": "https://www.codementor.io/reactjs/tutorial/5-essential-reactjs-interview-questions",
-    "topic": "React"
+    "topic": "React",
+    "isHighlighted": true
   },
   {
     "id": 11,
@@ -82,7 +86,8 @@ const data = [
     "id": 13,
     "title": "React Higher Order Components in Depth",
     "url": "https://medium.com/@franleplant/react-higher-order-components-in-depth-cf9032ee6c3e#.v3ncsitqn",
-    "topic": "React"
+    "topic": "React",
+    "isHighlighted": true
   },
   {
     "id": 14,
